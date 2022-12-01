@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntettero
-- 👀 I’m interested in the built environment, including real estate, mobility, energy consumption and finance.
+- 👀 I’m interested in ... a ton of stuff.
 - 🌱 I’m currently learning Python, R, SQL, Dash, ML, DL...
 - 📫 How to reach me: tetteroniek@gmail.com
 
