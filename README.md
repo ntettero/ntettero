@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntettero
 - 👀 I’m interested in ... a ton of stuff.
 - 🌱 I’m currently learning Python, R, SQL, Dash, ML, DL...
-- 📫 How to reach me: tetteroniek@gmail.com
+- 📫 How to reach me: LinkedIn
 
 <!---
 ntettero/ntettero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
