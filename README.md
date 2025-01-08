@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ntettero
-- 👀 I’m interested in ... a ton of stuff.
-- 🌱 I’m currently learning Python, R, SQL, Dash, ML, DL...
 - 📫 How to reach me: LinkedIn
 
 <!---
